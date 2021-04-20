@@ -1,8 +1,3 @@
-package com.tcc.java.programs;
-
-/**
- * Java Program to Print "Hello World" 10 times using for loop
- */
 public class HelloWorld {
     public static void main(String[] args) {
         int i;
